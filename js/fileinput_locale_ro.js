@@ -28,7 +28,7 @@
         msgFileNotFound: 'Fișierul "{name}" nu a fost găsit!',
         msgFileSecured: 'Restricții de securitate previn citirea fișierului "{name}".',
         msgFileNotReadable: 'Fișierul "{name}" nu se poate citi.',
-        msgFilePreviewAborted: 'Fișierului "{name}" nu poate fi previzualizat.',
+        msgFilePreviewAborted: 'Fișierul "{name}" nu poate fi previzualizat.',
         msgFilePreviewError: 'A intervenit o eroare în încercarea de citire a fișierului "{name}".',
         msgInvalidFileType: 'Tip de fișier incorect pentru "{name}". Sunt suportate doar fișiere de tipurile "{types}".',
         msgInvalidFileExtension: 'Extensie incorectă pentru "{name}". Sunt suportate doar extensiile "{extensions}".',
